@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "340636128620",
+    "project_id": "proyectopeliculas-253dd",
+    "storage_bucket": "proyectopeliculas-253dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340636128620:android:ceac85947bbb4d400d4f49",
+        "android_client_info": {
+          "package_name": "com.dam.proyectopeliculas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340636128620-6ubflmejnao2l3pc78tm0ka0gvbo3fvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dam.proyectopeliculas",
+            "certificate_hash": "9ec7286ae38614ce025ff40104ab7b829b46c77b"
+          }
+        },
+        {
+          "client_id": "340636128620-q1v6ca7np36cc6l46eobl4s21lvtm1t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxc45uLwTRjqEX9raGTI5z73V29wNxblc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340636128620-q1v6ca7np36cc6l46eobl4s21lvtm1t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047832308063",
+    "project_id": "moviles-2357a",
+    "storage_bucket": "moviles-2357a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047832308063:android:38cee7c35606ff486caeea",
+        "android_client_info": {
+          "package_name": "com.dam.proyectopeliculas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047832308063-2k1af80haah0ln46frovhqf2i43cubao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4aGQDoYS_WUQG3NlYlRPYIqbLg6WBq7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047832308063-2k1af80haah0ln46frovhqf2i43cubao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

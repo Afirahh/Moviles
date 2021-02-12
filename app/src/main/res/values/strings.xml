@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProyectoPeliculas</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDV2U6h6CMjc7XtihLrQFhldVSYT47lAFc</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
